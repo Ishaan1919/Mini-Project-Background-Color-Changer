@@ -1,0 +1,22 @@
+#div1{
+    background-color: red;
+}
+#div2{
+    background-color: blue;
+}
+#div3{
+    background-color: green;
+}
+#div4{
+    background-color: purple;
+}
+#div5{
+    background-color: grey;
+}
+.sq {
+    display: inline-block; /* Or use 'block' */
+    width: 100px; /* Width of the square */
+    height: 100px; /* Height of the square */
+    background-color: lightblue; /* Optional: Background color */
+    border: 2px solid black; /* Optional: Border */
+}
